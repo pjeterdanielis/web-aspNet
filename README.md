@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Web application" src="https://i.imgur.com/a5OA1mD.png" width="85%">
+  <img alt="Web application" src="https://i.imgur.com/IdxqXwL.png" width="85%">
 </p>
 <p align="center">
   <i> Final look at project </i>
